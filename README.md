@@ -1,2 +1,2 @@
 # Royal-Purple-Eclipse
-A sweet lookin purple theme with a nice view to look at.
+A simple but stylish purple theme with a nice view to look at. 
