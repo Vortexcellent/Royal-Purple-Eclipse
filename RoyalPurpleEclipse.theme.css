@@ -1,0 +1,19 @@
+//META{"name":"Royal Purple Eclipse","description":"A simple lookin purple theme with a nice view to look at. Used ClearVison_Sapphire by @Zerthox & Elegant Blue V1 by @Arch for specific elements. Thank you Arch for allowing me to use and modify his scrollbar."}*//{}
+/* "Royal Purple Eclipse" by @Alucard */
+/* Used "ClearVision - Sapphire v5.24" by @Zerthox and "Elegant Blue V1" by @Arch for specific elements and examples*/
+
+/* IMPORT CSS URL FROM GITHUB */
+@import url(https://gitcdn.xyz/repo/Vortexcellent/Royal-Purple-Eclipse/master/RoyalPurpleEclipse.theme.css);
+/*
+============== CUSTOM COLORS ===============
+*/
+:root {
+	--main-color: #A314EB;
+    --hover-color: #F051BB;
+}
+/*
+========= REPLACE THE THEME LINK WITH YOURS ==========
+*/
+{
+    background-image: url(https://github.com/Vortexcellent/Royal-Purple-Eclipse/blob/master/pse.jpg) !important; /* IMPORTANT: Link needs be HTTPS, I recommend Imgur */
+}
