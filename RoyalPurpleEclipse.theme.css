@@ -14,6 +14,7 @@
 /*
 ========= REPLACE THE THEME LINK WITH YOURS ==========
 */
+body::after
 {
     background-image: url(https://raw.githubusercontent.com/Vortexcellent/Royal-Purple-Eclipse/master/pse.jpg) !important; /* IMPORTANT: Link needs be HTTPS, I recommend Imgur */
 }
