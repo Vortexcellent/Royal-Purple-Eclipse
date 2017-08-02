@@ -8,8 +8,8 @@
 ============== CUSTOM COLORS ===============
 */
 :root {
-	--main-color: #2780e6;
-	--hover-color: #1e63b3;
+	--main-color: #A314EB;
+	--hover-color: #F051BB;
 }
 /*
 ========= REPLACE THE THEME LINK WITH YOURS ==========
@@ -175,6 +175,18 @@ body::after
 }
 .theme-dark .friends-table .messages .message-group-blocked, .theme-dark .messages-wrapper .messages .message-group-blocked {
     display: none;
+}
+.channels-wrap > [class*="container"]:last-child::after {
+    content: "ClearVision v5.2.4";
+    color: #A314EB;
+    font-size: 11px;
+    font-weight: 700;
+    text-align: center;
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    right: 0;
+    opacity: .5;
 }
 /*
 ------------------------------------------------------------------------------------------
